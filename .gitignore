@@ -1,3 +1,7 @@
 node_modules
 dist
-.sites-local
+*.log
+desktop-preview.png
+mobile-preview.png
+test-results/
+media-originals/
